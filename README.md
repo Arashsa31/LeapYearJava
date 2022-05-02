@@ -1,2 +1,2 @@
 # LeapYearJava
-This program that determines if a given year is a leap year.
+This program determines if a given year is a leap year.
